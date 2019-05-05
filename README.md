@@ -1,3 +1,3 @@
 # Clean-Blog
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](https://drive.google.com/open?id=1MTrrMrawlpK6rtnq-Ynozz2sQoOeZtRR)
