@@ -1,0 +1,15 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql+pymysql://root:@localhost/Navgurukul",
+		"prod_uri":"mysql+pymysql://root:@localhost/Navgurukul",
+		"fb_url":"https://www.facebook.com/jai.dev.3517",
+		"tw_url":"https://twitter.com/JaikishanShiv",
+		"git_url":"https://github.com/Jai-kishan",
+		"blog_name":"NavGurukul",
+		"gmail_id":"Jaikishan17@navgurukul.org",
+		"gmail_password":"xyzdads"
+
+	}
+}
